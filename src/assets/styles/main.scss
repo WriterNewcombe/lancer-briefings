@@ -345,6 +345,21 @@ section .section-header {
     text-transform: uppercase;
     letter-spacing: 0.1em;
   }
+
+  ::-webkit-scrollbar {
+    width: 12px; /* width of the entire scrollbar */
+  }
+
+  ::-webkit-scrollbar-track {
+    background: none; /* color of the tracking area */
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: $primary; /* color of the scroll thumb */
+    border-radius: 20px; /* roundness of the scroll thumb */
+    border: 3px solid $secondary;
+    margin: 3px; /* creates padding around scroll thumb */
+  }
 }
 
 .mission-list-container {
