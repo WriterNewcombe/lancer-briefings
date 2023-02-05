@@ -98,6 +98,11 @@ export default {
           "name": "Bug-Hunt",
           "status": "start"
         },
+        {
+          "slug": "001",
+          "name": "Bug-Hunt",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
