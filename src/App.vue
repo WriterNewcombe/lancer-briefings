@@ -96,11 +96,6 @@ export default {
         {
           "slug": "001",
           "name": "Bug-Hunt",
-          "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "Vigilant Gaze",
           "status": "start"
         },
       ],
