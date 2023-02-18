@@ -95,13 +95,18 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "start"
+          "name": "Serene Harvest",
+          "status": "success"
         },
         {
           "slug": "002",
           "name": "Vigilant-Gaze",
-          "status": "success"
+          "status": "start"
+        },
+        {
+          "slug": "003",
+          "name": "Vigilant-Gaze",
+          "status": "start"
         },
       ],
       "pilots": [
@@ -139,7 +144,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Century",
+        "planet": "Cazeti",
         "year": "5016u",
         "system": "Petra",
         "gate": "Belukha",
@@ -150,7 +155,7 @@ export default {
         "subheaderSubtitle": "Echo-Bravo-Echo",
       },
       "options":{
-        "eventsMarkdownPerMission": true
+        "eventsMarkdownPerMission": false
       }
     }
   },
