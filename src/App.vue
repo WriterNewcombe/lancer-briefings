@@ -100,12 +100,12 @@ export default {
         },
         {
           "slug": "002",
-          "name": "Vigilant-Gaze",
+          "name": "Card Trick",
           "status": "start"
         },
         {
           "slug": "003",
-          "name": "Vigilant-Gaze",
+          "name": "Split Decision",
           "status": "start"
         },
       ],
