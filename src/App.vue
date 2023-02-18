@@ -100,12 +100,12 @@ export default {
         },
         /*{
           "slug": "002",
-          "name": "Card Trick",
+          "name": "Split Decision",
           "status": "start"
         },
         {
           "slug": "003",
-          "name": "Split Decision",
+          "name": "Honest Trick",
           "status": "start"
         },*/
       ],
