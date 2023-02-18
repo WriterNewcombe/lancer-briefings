@@ -98,7 +98,7 @@ export default {
           "name": "Serene Harvest",
           "status": "success"
         },
-        {
+        /*{
           "slug": "002",
           "name": "Card Trick",
           "status": "start"
@@ -107,7 +107,7 @@ export default {
           "slug": "003",
           "name": "Split Decision",
           "status": "start"
-        },
+        },*/
       ],
       "pilots": [
         {
