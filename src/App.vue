@@ -1,7 +1,7 @@
 <template>
   <Header :header="this.header" />
   <div class="content-container">
-    <section class="section-container" id="missions" style="width:25%; height:714px;">
+    <section class="section-container" id="missions" style="width:30%; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
         <h1>Mission Log</h1>
@@ -21,7 +21,7 @@
         </div>
       </div>
     </section>
-    <section class="section-container" id="events" style="width:25%; height:714px;">
+    <section class="section-container" id="events" style="width:30%; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
         <h1>Events Log</h1>
@@ -30,7 +30,7 @@
         <Markdown :source="events" class="markdown" />
       </div>
     </section>
-    <section class="section-container" id="pilots" style="width:50%; height:714px;">
+    <section class="section-container" id="pilots" style="width:40%; height:714px;">
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
@@ -148,14 +148,14 @@ export default {
         "year": "5016u",
         "system": "Petra",
         "gate": "Belukha",
-        "ring": "Atlas-Line",
+        "ring": "Altai",
         "headerTitle": "Just Axiom",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Special Ops",
         "subheaderSubtitle": "Echo-Bravo-Echo",
       },
       "options":{
-        "eventsMarkdownPerMission": false
+        "eventsMarkdownPerMission": true
       }
     }
   },
