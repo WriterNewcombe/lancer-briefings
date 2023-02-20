@@ -98,12 +98,12 @@ export default {
           "name": "Serene Harvest",
           "status": "success"
         },
-        /*{
+        {
           "slug": "002",
-          "name": "Split Decision",
+          "name": "Honest Trick",
           "status": "start"
         },
-        {
+        /*{
           "slug": "003",
           "name": "Honest Trick",
           "status": "start"
