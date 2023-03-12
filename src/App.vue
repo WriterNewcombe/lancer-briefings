@@ -21,7 +21,7 @@
         </div>
       </div>
     </section>
-    <section class="section-container" id="events" style="width:30%; height:714px;">
+    <section class="section-container" id="events" style="width:30%">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
         <h1>Events Log</h1>
