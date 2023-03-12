@@ -124,7 +124,7 @@ export default {
           "code": "7cd700cc",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Brunhildr"
+          "mech": "Suffer the Fools to Know"
         },
         {
           "callsign": "Lapis",
