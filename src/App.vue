@@ -123,7 +123,7 @@ export default {
           "alias": "Nikita Yanan",
           "code": "7cd700cc",
           "corpro": "GMS",
-          "frame": "Everest",
+          "frame": "Chomolungma",
           "mech": "Suffer the Fools to Know"
         },
         {
