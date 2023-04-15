@@ -101,38 +101,38 @@ export default {
         {
           "slug": "002",
           "name": "Honest Trick",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Quake Elixir",
           "status": "start"
         },
-        /*{
-          "slug": "003",
-          "name": "Honest Trick",
-          "status": "start"
-        },*/
       ],
       "pilots": [
         {
           "callsign": "Mountain",
           "alias": "Kedra Yolanovich",
           "code": "462370be",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Fistbreaker"
+          "corpro": "HA",
+          "frame": "Saladin",
+          "mech": "Lead Eater"
         },
         {
           "callsign": "Valkyrie",
           "alias": "Nikita Yanan",
           "code": "7cd700cc",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Suffer the Fools to Know"
+          "corpro": "SSC",
+          "frame": "Emperor",
+          "mech": "Freyja"
         },
         {
           "callsign": "Lapis",
           "alias": "Maeva Kuni",
           "code": "4be26ce9",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Final Frontier"
+          "corpro": "IPS-N",
+          "frame": "Blackbead",
+          "mech": "New Best Friend"
         },
         {
           "callsign": "Goblin",
@@ -144,7 +144,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Cazeti",
+        "planet": "Century",
         "year": "5016u",
         "system": "Petra",
         "gate": "Belukha",
