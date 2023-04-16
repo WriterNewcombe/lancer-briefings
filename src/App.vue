@@ -131,7 +131,7 @@ export default {
           "alias": "Maeva Kuni",
           "code": "4be26ce9",
           "corpro": "IPS-N",
-          "frame": "Blackbead",
+          "frame": "Blackbeard",
           "mech": "New Best Friend"
         },
         {
